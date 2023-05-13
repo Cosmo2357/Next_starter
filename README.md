@@ -10,7 +10,7 @@
 - Tailwindcss
   - Dark mode
 - 3S file uploader 
-- Prisma
+- Knex
 - Postgres
 - i18 Multi language
 - Axios
